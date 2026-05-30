@@ -1,10 +1,10 @@
-Rule Breaker
+## Rule Breaker
 
 A Balatro mod that uses After-Five-Api to allow hands to exceed the normal 5-card limit.
 
 Rule Breaker introduces support for playing and discarding additional cards through Joker effects. Designed to work with Steamodded and modded Balatro setups.
 
-Features
+## Features
 
 Increase playable hand size dynamically
 
@@ -18,7 +18,7 @@ Compatible with Steamodded
 
 Lightweight implementation
 
-Preview
+## Preview
 
 Ignore extra stuff, was testing.
 
@@ -42,7 +42,7 @@ Mod Showcase
 
 ![Preview 5](preview/5.jpg)
 
-Installation
+## Installation
 
 requirements:
 
@@ -52,25 +52,27 @@ Lovely Injector 0.7*
 
 After-Five-Api 1
 
+https://github.com/RakibRyan/After-Five-Api
+
 
 Place the mod folder inside your Balatro mods directory.
 
 Launch the game.
 
-Example
+## Example
 
 The Rule Breaker Joker increases the maximum selectable cards by +1.
 
 Multiple copies stack together.
 
 
-Compatibility & recommendations 
+## Compatibility & recommendations 
 
 it should be compatible with most mods as long as they Don't override core game logic. 
 For best experience use 6 suits mod.
 
 
-Credits
+## Credits
 
 Created for Balatro modding and custom gameplay experimentation.
 
