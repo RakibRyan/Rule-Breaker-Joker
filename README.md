@@ -20,24 +20,24 @@ Lightweight implementation
 
 Preview
 
-Joker Card
+Ignore extra stuff, was testing.
 
-![Rule Breaker Preview](preview/1.jpg)
-
-
-Gameplay
-
-![Gameplay](preview/2.jpg)
+![Preview 1](preview/1.jpg)
 
 
-Additional Features
+One additional card play/discard per joker
 
-![Extra Hand Limit](preview/3.jpg)
-
-Extra Hand Support
+![Preview 2](preview/2.jpg)
 
 
-![Shop Appearance](preview/4.jpg)
+Base game compatibility 
+
+![Preview 3](preview/3.jpg)
+
+custom Hand Support
+
+
+![Preview 4](preview/4.jpg)
 Mod Showcase
 
 ![Preview 5](preview/5.jpg)
