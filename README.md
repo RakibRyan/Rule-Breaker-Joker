@@ -22,7 +22,7 @@ Lightweight implementation
 
 Rule Breaker Joker
 
-![Preview 1](preview/1.jpg)
+![Preview 1](preview/1.png)
 
 
 One additional card play/discard per joker
