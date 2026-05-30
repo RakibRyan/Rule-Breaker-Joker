@@ -20,7 +20,7 @@ Lightweight implementation
 
 ## Preview
 
-Ignore extra stuff, was testing.
+Rule Breaker Joker
 
 ![Preview 1](preview/1.jpg)
 
