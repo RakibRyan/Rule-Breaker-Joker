@@ -22,31 +22,36 @@ Preview
 
 Joker Card
 
-￼
+![Rule Breaker Preview](preview/1.jpg)
+
 
 Gameplay
 
-￼
+![Gameplay](preview/2.jpg)
+
 
 Additional Features
 
-￼
+![Extra Hand Limit](preview/3.jpg)
 
 Extra Hand Support
 
-￼
 
+![Shop Appearance](preview/4.jpg)
 Mod Showcase
 
-￼
+![Preview 5](preview/5.jpg)
 
 Installation
 
-Install:
+requirements:
 
-Steamodded
+Steamodded 1*
 
-Lovely Injector
+Lovely Injector 0.7*
+
+After-Five-Api 1
+
 
 Place the mod folder inside your Balatro mods directory.
 
@@ -58,15 +63,12 @@ The Rule Breaker Joker increases the maximum selectable cards by +1.
 
 Multiple copies stack together.
 
-JokersMax Extra Cards1+12+23+34+4 
 
-Compatibility
+Compatibility & recommendations 
 
-Balatro
+it should be compatible with most mods as long as they Don't override core game logic. 
+For best experience use 6 suits mod.
 
-Steamodded
-
-Lovely Injector
 
 Credits
 
