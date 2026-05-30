@@ -1,8 +1,8 @@
 Rule Breaker
 
-A Balatro mod and API that allows hands to exceed the normal 5-card limit.
+A Balatro mod that uses After-Five-Api to allow hands to exceed the normal 5-card limit.
 
-Rule Breaker introduces support for playing and discarding additional cards through Joker effects and other custom mechanics. Designed to work with Steamodded and modded Balatro setups.
+Rule Breaker introduces support for playing and discarding additional cards through Joker effects. Designed to work with Steamodded and modded Balatro setups.
 
 Features
 
